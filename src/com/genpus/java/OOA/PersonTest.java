@@ -25,5 +25,9 @@ public class PersonTest {
         Person person3 = new Person("wangwu", 20);
 
         person3.speak();
+
+        Person person4 = new Person("zhaoliu", 26);
+
+        person4.speak();
     }
 }
